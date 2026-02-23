@@ -3,7 +3,7 @@
    sdk_checkout.sh
    ```
 1. ```
-   cd SDK11/build
+   cd SDK10/build
    ```
 1. ```
    . conf/setenv
